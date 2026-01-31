@@ -5,7 +5,7 @@ import About from "../pages/About";
 import Contact from "../pages/Contact";
 import TermsAndConditions from "../pages/TermsAndConditions";
 import PrivacyPolicy from "../pages/PrivacyPolicy";
-import FAQ from "../pages/faq";
+import FAQ from "../pages/Faq";
 
 export const routes = [
   { path: "/", element: <Home /> },

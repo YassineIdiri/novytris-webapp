@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ExternalLink, User, Target, Zap, Shield } from "lucide-react";
+import { ExternalLink, User } from "lucide-react";
 import Container from "../components/Container";
 import CTA from "../components/CTA";
 
